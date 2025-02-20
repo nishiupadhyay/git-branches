@@ -1,1 +1,5 @@
 /* some css rules  */
+/* new branch should be ahead of master/main branch */
+p {
+  color: red;
+}
